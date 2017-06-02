@@ -741,7 +741,7 @@ ul.social-list
 	background-position:left center;
 }
 
-	.icon-1.icon-1-app-white			{ background-image:url('media/image/public/icon/icon-1/icon_app.png');				}
+	.icon-1.icon-1-microphone-white	    { background-image:url('media/image/public/icon/icon-1/icon_microphone.png');				}
 	.icon-1.icon-1-mail-white			{ background-image:url('media/image/public/icon/icon-1/icon_mail.png');				}
 	.icon-1.icon-1-post-white			{ background-image:url('media/image/public/icon/icon-1/icon_post.png');				}
 	.icon-1.icon-1-chat-white			{ background-image:url('media/image/public/icon/icon-1/icon_chat.png');				}
