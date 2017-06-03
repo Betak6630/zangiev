@@ -731,23 +731,37 @@ ul.social-list
 /* Icons																	  */
 /******************************************************************************/
 
-.icon-1
-{
-	float:left;
-	width:48px;
-	height:48px;
-	display:block;
-	background-repeat:no-repeat;
-	background-position:left center;
+.icon-1 {
+    float: left;
+    width: 48px;
+    height: 48px;
+    display: block;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-color: white;
+    border-radius: 20px;
 }
 
 	.icon-1.icon-1-microphone-white	    { background-image:url('media/image/public/icon/icon-1/icon_microphone.png');				}
-	.icon-1.icon-1-mail-white			{ background-image:url('media/image/public/icon/icon-1/icon_mail.png');				}
+    .icon-1.icon-1-mail-white {
+        background-image: url('media/image/public/icon/icon-1/icon_book.png');
+    }
 	.icon-1.icon-1-post-white			{ background-image:url('media/image/public/icon/icon-1/icon_post.png');				}
-	.icon-1.icon-1-chat-white			{ background-image:url('media/image/public/icon/icon-1/icon_chat.png');				}
-	.icon-1.icon-1-clock-white			{ background-image:url('media/image/public/icon/icon-1/icon_clock.png');			}
-	.icon-1.icon-1-video-white			{ background-image:url('media/image/public/icon/icon-1/icon_video.png');			}
-	.icon-1.icon-1-music-white			{ background-image:url('media/image/public/icon/icon-1/icon_music.png');			}
+	.icon-1.icon-1-ok-white			    { background-image:url('media/image/public/icon/icon-1/icon_ok.png');				}
+    .icon-1.icon-1-book-white {
+        background-image: url('media/image/public/icon/icon-1/icon_book.png');
+    }
+    .icon-1.icon-1-experience {
+        background-image: url('media/image/public/icon/icon-1/icon_experience.png');
+       
+    }
+
+    .icon-1.icon-1-lang {
+        background-image: url('media/image/public/icon/icon-1/icon_lang.png');
+    }
+    .icon-1.icon-1-thumbs {
+        background-image: url('media/image/public/icon/icon-1/icon_thumbs.png');
+    }
 	.icon-1.icon-1-chart-white			{ background-image:url('media/image/public/icon/icon-1/icon_chart.png');			}
 	.icon-1.icon-1-heart-white			{ background-image:url('media/image/public/icon/icon-1/icon_heart.png');			}
 	.icon-1.icon-1-image-white			{ background-image:url('media/image/public/icon/icon-1/icon_image.png');			}
