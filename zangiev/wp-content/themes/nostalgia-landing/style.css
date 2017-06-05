@@ -736,13 +736,15 @@ ul.social-list
     width: 48px;
     height: 48px;
     display: block;
+    -ms-background-repeat: no-repeat;
     background-repeat: no-repeat;
+    -ms-background-position: left center;
     background-position: left center;
     background-color: white;
     border-radius: 20px;
 }
 
-	.icon-1.icon-1-microphone-white	    { background-image:url('media/image/public/icon/icon-1/icon_microphone.png');				}
+.icon-1.icon-1-microphone-white	    { background-image:url('media/image/public/icon/icon-1/icon_microphone.png');				}
     .icon-1.icon-1-mail-white {
         background-image: url('media/image/public/icon/icon-1/icon_book.png');
     }
