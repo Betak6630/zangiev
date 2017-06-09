@@ -203,9 +203,7 @@
     <Content Include="wp-content\themes\nostalgia-landing\style\jquery.supersized.css" />
     <Content Include="wp-content\themes\nostalgia-landing\style\jquery.ui.min.css" />
     <Content Include="wp-content\themes\nostalgia-landing\style\responsive.css" />
-    <Content Include="wp-content\uploads\2015\10\favicon-3.ico" />
-    <Content Include="wp-content\uploads\2015\10\Лого-2015-2.png" />
-    <Content Include="wp-content\uploads\2016\08\DSC04912.jpg" />
+    <Content Include="wp-content\uploads\2015\10\favicon.ico" />
     <Content Include="wp-content\uploads\2016\12\IMG_1427.jpg" />
     <Content Include="wp-content\uploads\2016\12\IMG_2393-e1480971285701.jpg" />
     <Content Include="wp-content\uploads\2016\12\IMG_2598.jpg" />
@@ -246,6 +244,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="wp-content\uploads\2016\08\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
